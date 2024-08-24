@@ -98,9 +98,9 @@
 				0806D5E72C6FB29B0024DCF7 /* VidAuraApp.swift */,
 				0806D5E92C6FB29B0024DCF7 /* ContentView.swift */,
 				0806D61D2C6FEC1B0024DCF7 /* SignupView.swift */,
+				0821BE3F2C70CCAF00B27C9D /* SignInView.swift */,
 				0806D5EB2C6FB29E0024DCF7 /* Assets.xcassets */,
 				0806D5ED2C6FB29E0024DCF7 /* Preview Content */,
-				0821BE3F2C70CCAF00B27C9D /* SignInView.swift */,
 			);
 			path = VidAura;
 			sourceTree = "<group>";
