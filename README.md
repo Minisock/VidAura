@@ -1,11 +1,11 @@
 # VidAura
 
 
-Welcome to vidAura, a cutting-edge iOS application designed to bring the power of video sharing right to your fingertips. Built with SwiftUI in Xcode, vidAura combines a sleek user interface with powerful backend integrations, making it easy and enjoyable to upload, discover, and share AI-generated videos within a vibrant community.
+Welcome to VidAura, a cutting-edge iOS application designed to bring the power of video sharing right to your fingertips. Built with SwiftUI in Xcode, VidAura combines a sleek user interface with powerful backend integrations, making it easy and enjoyable to upload, discover, and share AI-generated videos within a vibrant community.
 
 ## 🚀 Introduction
 
-vidAura is a native iOS application crafted for seamless video sharing. Its user-friendly design is complemented by smooth animations and a robust backend, ensuring a secure and immersive user experience. Whether you're an aspiring content creator or an enthusiastic video consumer, vidAura provides a platform where creativity meets technology.
+VidAura is a native iOS application crafted for seamless video sharing. Its user-friendly design is complemented by smooth animations and a robust backend, ensuring a secure and immersive user experience. Whether you're an aspiring content creator or an enthusiastic video consumer, VidAura provides a platform where creativity meets technology.
 
 
 
