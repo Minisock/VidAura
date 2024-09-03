@@ -47,3 +47,47 @@ VidAura is a native iOS application crafted for seamless video sharing. Its user
 👉 Animations: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
 ...and many more, including code architecture and reusability.
+
+## Welcome to VidAura App
+
+### Starting UI
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.02.26.png" width="300" />
+</div>
+
+### SignUp
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.03.15.png" width="300" />
+</div>
+
+### LogIn
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.03.25.png" width="300" />
+</div>
+
+### Home
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.03.58.png" width="300" />
+</div>
+
+### Upload Video
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.04.04.png" width="300" />
+</div>
+
+### Profile View
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.04.44.png" width="300" />
+</div>
+
+### Saved Videos View
+
+<div align="center">
+    <img src="https://github.com/Minisock/VidAura/blob/40d7ad5f504cc512ebf37319d97e77737c2b7225/VidAura/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-09-03%20at%2014.04.52.png" width="300" />
+</div>
